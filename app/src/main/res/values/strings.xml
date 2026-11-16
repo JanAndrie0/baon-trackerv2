@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Baon Tracker</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_history">History</string>
+    <string name="tab_insights">Insights</string>
+    <string name="tab_settings">Settings</string>
+    <string name="onboarding_title">Know if your baon will last</string>
+    <string name="onboarding_subtitle">Offline-first daily budget built for Filipino students. Log gastos in 3 taps—even on the jeepney.</string>
+    <string name="privacy_notice_offline">Your expenses stay privately on your phone. AI quick entry sends only the snippet or receipt you pick when online—never stored on external servers.</string>
+    <string name="safe_to_spend_label">SAFE TO SPEND TODAY</string>
+    <string name="ai_quick_hint">Try: jeep 13, xerox 20, lunch 85 gcash</string>
+    <string name="reminder_channel_name">Daily Gastos Reminder</string>
+    <string name="reminder_channel_desc">Friendly daily reminder to log today\'s gastos</string>
+    <string name="reminder_notif_title">Did you log today\'s gastos?</string>
+    <string name="reminder_notif_body">Take 3 seconds to log your pamasahe and pagkain so your Safe-to-Spend meter stays accurate.</string>
+</resources>

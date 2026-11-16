@@ -1,0 +1,6 @@
+{
+  "name": "Baon Tracker",
+  "description": "Offline-first Filipino student allowance and expense tracker with Safe-to-Spend-Today forecast, Insights, and AI quick entry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
